@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="app_name_about">Multi-Notes</string>
+    <string name="developer">© 2017, Saloni Chauhan</string>
+    <string name="version">Version 1.0</string>
+    <string name="title_hint">Note Title</string>
+    <string name="content_hint">Your notes go here...</string>
+    <string name="title_empty">Note title cannot be empty</string>
+    <string name="file_name">notes.json</string>
+</resources>
